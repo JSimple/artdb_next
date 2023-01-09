@@ -1,0 +1,23 @@
+[
+    {
+        "AllowedHeaders": [
+            "*"
+        ],
+        "AllowedMethods": [
+            "GET",
+            "PUT",
+            "POST",
+            "DELETE",
+            "HEAD"
+        ],
+        "AllowedOrigins": [
+            "http://*",
+            "https://*"
+        ],
+        "ExposeHeaders": [
+            "Access-Control-Allow-Origin",
+            "ETag"
+        ],
+        "MaxAgeSeconds": 3000
+    }
+]

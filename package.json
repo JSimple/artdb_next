@@ -26,8 +26,10 @@
   },
   "dependencies": {
     "aws-cdk-lib": "2.27.0",
+    "bootstrap": "^5.2.3",
     "constructs": "^10.1.36",
     "eslint-config-next": "^12.1.0",
+    "react-bootstrap": "^2.7.0",
     "source-map-support": "^0.5.21"
   }
 }
